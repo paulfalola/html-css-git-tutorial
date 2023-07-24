@@ -1,0 +1,12 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.block {
+    background-color: black;
+    color: white; 
+}
+.in-line {
+    background-color: black;
+    color: white; 
+}
